@@ -1,0 +1,129 @@
+
+
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 100%
+}
+h1{
+  color: #ff96ad;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+h2{
+  color: #ba135d;
+}
+h3{
+  color: #ff96ad;
+  font-weight: normal;
+  font-size: 1.6rem;
+  margin: 50px auto 0 auto;
+}
+p{
+  line-height: 2;
+}
+a{
+  color: #ba135d;
+  font-family: 'Merriweather', serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+.footer-link:hover{
+  color: #ff96ad;
+}
+.copyright{
+  font-size: 0.95rem;
+}
+.contact-me{
+  margin: 40px auto 50px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+.dotted{
+  border-style: none;
+  border-top: dotted 10px;
+  border-color: #e798ae;
+  width: 8%;
+  margin: 50px auto;
+}
+.line{
+  border-style: solid;
+  border-color: #e798ae;
+}
+.head{
+  position: relative;
+  text-align: center;
+  top: 150px;
+}
+.top{
+   background-color: #f9dfdc;
+   padding-top: 50px;
+}
+.middle-container{
+
+}
+.bottom-container{
+  background-color: #f9dfdc;
+  color: #ba135d;
+  margin-top: 100px;
+  height: 140px;
+
+}
+.top-cloud{
+  position: absolute;
+  top: 80px;
+  right: 350px;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  top: 400px;
+}
+.skills{
+}
+.mountain{
+  padding: 100px
+}
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+}
+.poster-img{
+  width: 27%;
+  float: right;
+  margin-left: 30px;
+}
+.photography-img{
+  width: 30%;
+  float: left;
+  margin-right: 30px;
+}
+  .BUTTON_SJB {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #BA135D;
+   font-family: Open Sans;
+   font-size: 20px;
+   font-weight: 300;
+   padding: 15px;
+   background-color: #E798AE;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.BUTTON_SJB:hover {
+   background: #E798AE;
+   border: solid #E798AE 2px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   border-radius: 15px;
+   text-decoration: none;
+}
